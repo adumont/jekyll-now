@@ -6,7 +6,7 @@
 name: IT Nerd Space
 
 # Short bio or description (displayed in the header)
-description: Blog about Cloud, Automation, Android, Smart things, Hacking and Making…
+description: Blog about Hacking and Making, IoT, Smart things…
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://itnerd.space/wp-content/uploads/2016/10/cropped-o-LIGHTBULB-facebook.jpg
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: ITNerdSpace/jekyll-now
+  github: adumont
   instagram:
   linkedin:
   pinterest:
