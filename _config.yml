@@ -86,3 +86,5 @@ exclude:
   - CNAME
 
 remote_theme: brianmaierjr/long-haul
+
+theme: jekyll-theme-merlot
