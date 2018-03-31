@@ -86,3 +86,19 @@ exclude:
   - CNAME
 
 remote_theme: brianmaierjr/long-haul
+
+# Navigation (2nd level links supported) 
+nav:
+  Home:
+    - '/' 
+  Blog: 
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' } 
+  About:
+    - '/about/' 
+
+# Where are tags and categories displayed 
+tag_page: '/blog/tags/' 
+category_page: '/blog/categories/' 
+
