@@ -29,7 +29,7 @@ footer-links:
   twitter: adumont
   stackoverflow: users/728281/alexandre-dumont # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: u/0/+AlexandreDumont # anything in your profile username that comes after plus.google.com/
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
