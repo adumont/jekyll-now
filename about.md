@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a tech guy, husband and father of two.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is about random stuff I do in my free time.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Lately I'm interested in:
+- Digital Circuits
+- CPU and Microarchitecture design
+- Verilog
+- FPGAs
+- Robotics (Arduino, Raspberry)
