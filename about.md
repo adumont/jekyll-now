@@ -16,3 +16,7 @@ Lately I'm interested in:
 - Verilog
 - FPGAs
 - Robotics (Arduino, Raspberry)
+
+### Contact me
+
+See the icons below. My preference is that you mention me on Twitter.
