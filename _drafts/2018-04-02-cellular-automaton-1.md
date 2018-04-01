@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Cellular Automaton (1)
-published: true
+published: false
 tags:
-  - test
-  - Prueba
+  - Automaton
 ---
 
