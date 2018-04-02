@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a Cellular Automaton?
-published: false
+published: true
 tags:
   - Automaton
 ---
