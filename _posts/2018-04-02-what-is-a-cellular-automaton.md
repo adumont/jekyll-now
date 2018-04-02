@@ -9,7 +9,7 @@ tags:
 I first heard of the concept of Cellular Automaton while watching an Electrical and Computer Engineering course lecture by Bruce Land (available on Youtube):
 {: .present-before-paste}
 
-[![](http://img.youtube.com/vi/sKhvMhTiuM4/0.jpg)](http://www.youtube.com/watch?v=sKhvMhTiuM4)
+[![](http://img.youtube.com/vi/yvqkg44_DQA/0.jpg)](http://www.youtube.com/watch?v=yvqkg44_DQA)
 {: .present-before-paste}
 
 Some googling pointed me to this page on Wolfram with more details on the [Cellular Automata](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html).
