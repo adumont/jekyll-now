@@ -6,6 +6,9 @@ tags:
   - Automaton
 ---
 
+This is the first post of a series I am writing about designing and running Cellular Automatons in an FPGA. I'll end up with several variants, from one lighting up LEDs to another one drawing on a VGA monitor. But first, what is a Cellular Automaton?
+{: .present-before-paste}
+
 I first heard of the concept of Cellular Automaton while watching an Electrical and Computer Engineering course lecture by Bruce Land (available on Youtube):
 {: .present-before-paste}
 
