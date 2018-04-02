@@ -33,7 +33,7 @@ The next generation of cell 4 will depend on the value of cell 4 and the two adj
 In the most simple form, each cell can have two values, 0 (dead) or 1 (alive). As we are looking at 3 cells, there are 2^3=8 posibilities of values for the triplet.
 {: .present-before-paste}
 
-Let's imagine an arbitrary rule for our Cellular Automaton: "the generation N+1 of a cell will be 0 if the generation N of the cell is equal to the two adjacent cells". In other words, if the 3 cells have the same value (0 or 1), the next generation of the cell will die (be 0). Otherwise, if at least one of the two neighbour cells is different, it will survive (be 1).
+Let's imagine an arbitrary rule for our Cellular Automaton: "*the generation N+1 of a cell will be 0 if the generation N of the cell is equal to the two adjacent cells*". In other words, if the 3 cells have the same value (0 or 1), the next generation of the cell will die (be 0). Otherwise, if at least one of the two neighbour cells is different, it will survive (be 1).
 {: .present-before-paste}
 
 We can see that this rules makes the [rule 126](http://mathworld.wolfram.com/Rule126.html):
