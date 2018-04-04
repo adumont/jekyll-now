@@ -52,3 +52,6 @@ You can watch the simulation in Logisim on Youtube:
 ## Files of the project
 
 You can find the logisim project file on [Github](https://github.com/adumont/CellularAutomaton/tree/master/Automaton-Logisim-8bits).
+
+In the next posts of this series I'll write about the Verilog version of my Automaton (which indeed was the first one I created).
+If you found this post interesting, don't hesitate to share it and/or leave a comment.
