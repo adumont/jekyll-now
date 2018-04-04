@@ -2,7 +2,7 @@
 layout: post
 title: What is a Cellular Automaton?
 published: true
-image: https://pbs.twimg.com/media/DUQ6faiWsAIc3DO.jpg
+image: /uploads/automaton-rule126.png
 tags:
   - Automaton
 ---
