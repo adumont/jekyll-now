@@ -3,7 +3,9 @@ layout: default
 ---
 
 <article class="post">
+  {% if page.image %}
   <img src="{{ page.image }}" alt="{{ page.title }}">
+  {% endif %}
 
   <h1>{{ page.title }}</h1>
 
