@@ -27,7 +27,7 @@ This module is the 8-bit Cellular Automaton module: it computes an 8-bit input a
 
 It is a combinational module made of 8 *elementary blocks*:
 
-![](https://github.com/adumont/CellularAutomaton/raw/master/Automaton-Logisim-8bits/assets/Automaton8bit-inside.png)(https://github.com/adumont/CellularAutomaton/raw/master/Automaton-Logisim-8bits/assets/Automaton8bit-inside.png)
+[![](https://github.com/adumont/CellularAutomaton/raw/master/Automaton-Logisim-8bits/assets/Automaton8bit-inside.png)](https://github.com/adumont/CellularAutomaton/raw/master/Automaton-Logisim-8bits/assets/Automaton8bit-inside.png)
 
 Notice the wriring of the elementary blocks, especially how the block B0 takes i7,i0 and i1 as input, and block B7 takes i6,i7 and i0 as input.
 
