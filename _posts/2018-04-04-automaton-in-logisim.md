@@ -47,7 +47,7 @@ The top module is made of:
 
 You can watch the simulation in Logisim on Youtube:
 
-[![](http://img.youtube.com/vi/8XUDAzpuUUQ/0.jpg)](http://www.youtube.com/watch?v=8XUDAzpuUUQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XUDAzpuUUQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Files of the project
 
