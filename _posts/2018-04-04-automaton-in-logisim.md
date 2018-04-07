@@ -5,10 +5,9 @@ published: true
 tags:
   - Automaton
 image: https://github.com/adumont/CellularAutomaton/raw/master/Automaton-Logisim-8bits/assets/TopModule.png
-last_modified_at: 2018-04-07 14:50:59 UTC
 ---
 
-This is the second post of my [series on Cellular Automatons](/tag/automaton/). In this post, I'll show how I have designed and simulated an 8-bit Cellular Automaton using [Logisim](https://github.com/sderrien/logisim-evolution).
+This is the second post of my series on Cellular Automatons. In this post, I'll show how I have designed and simulated an 8-bit Cellular Automaton using [Logisim](https://github.com/sderrien/logisim-evolution).
 
 If you wonder what a Cellular Automaton is, go read my [first post](http://maker.itnerd.space/what-is-a-cellular-automaton/).
 
@@ -54,5 +53,5 @@ You can watch the simulation in Logisim on Youtube:
 
 You can find the logisim project file on [Github](https://github.com/adumont/CellularAutomaton/tree/master/Automaton-Logisim-8bits).
 
-In the next posts of this [series](/tag/automaton/) I'll write about the Verilog version of my Automaton (which indeed was the first one I created).
+In the next posts of this series I'll write about the Verilog version of my Automaton (which indeed was the first one I created).
 If you found this post interesting, don't hesitate to share it and/or leave a comment.

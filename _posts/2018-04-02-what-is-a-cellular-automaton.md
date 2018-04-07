@@ -5,10 +5,9 @@ published: true
 image: /uploads/elementarycarule126-1200.gif
 tags:
   - Automaton
-last_modified_at: 2018-04-07 18:11:45 UTC
 ---
 
-This is the first post of[ a series](/tag/automaton/) I am writing about designing and running Cellular Automatons in an FPGA. I'll end up with several variants, from one lighting up LEDs to another one drawing on a VGA monitor. But first, what is a Cellular Automaton?
+This is the first post of a series I am writing about designing and running Cellular Automatons in an FPGA. I'll end up with several variants, from one lighting up LEDs to another one drawing on a VGA monitor. But first, what is a Cellular Automaton?
 
 I first heard of the concept of Cellular Automaton while watching an Electrical and Computer Engineering course lecture by Bruce Land (available on Youtube):
 
@@ -48,4 +47,4 @@ Here are the results obtains for other rules:
 
 ![](/uploads/elementaryca-850.gif)
 
-In the [next articles](/tag/automaton/), I'll describe a Cellular Automaton in Verilog and run it in an FPGA, output each generations on the LEDs or a VGA display.
+In the next articles, I'll describe a Cellular Automaton in Verilog and run it in an FPGA, output each generations on LEDs, and on a VGA display.
